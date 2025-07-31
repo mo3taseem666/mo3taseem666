@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Moataseem 👋</h1>
 <p align="center">
-  Frontend Developer | React Enthusiast | UI/UX Explorer
+  Fullstack Developer | React & Express Enthusiast | UI/UX Explorer
 </p>
 
 <p align="center">
