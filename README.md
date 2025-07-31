@@ -22,17 +22,34 @@
 
 ## ⚙️ Tech Stack
 
+### 🧩 Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+
+---
+
+### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+
+---
+
+### 🗄️ Database & Auth
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+
+---
+
+### 🧰 Tools & Workflow
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
+
 
 ---
 
