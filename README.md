@@ -4,6 +4,10 @@
 </p>
 
 <p align="center">
+  <a href="https://moataseem.netlify.app" target="_blank"><strong>🌐 Visit My Portfolio</strong></a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=moataseem&style=flat-square&color=blue" alt="GitHub Profile Views" />
 </p>
 
@@ -62,9 +66,10 @@
 
 ## 📫 Let's Connect
 
+- 🌐 [My Portfolio](https://moataseem.netlify.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/moataseem-shaaban/)
 - 📹 [Front Nerd on TikTok](https://www.tiktok.com/@frontnerd)
-- 📧 Email: moataseem.shaaban@gmail.com
+- 📧 Email: mo3data@gmail.com
 
 ---
 
