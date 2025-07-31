@@ -52,29 +52,11 @@
 
 ---
 
-## 🧩 Featured Projects
-
-- 🔥 [POS System Dashboard](https://github.com/your-repo-link)  
-  Internal Point of Sale system with barcode scanning, dynamic product management, and receipt printing.
-
-- 🍔 [Food Ordering System](https://github.com/your-repo-link)  
-  Full-stack food ordering system with user authentication, live order tracking, and admin controls.
+## 🧩 Courses
 
 - 🧠 [Front Nerd - Dev Education](https://www.tiktok.com/@frontnerd)  
   A TikTok channel for frontend tutorials, breaking down JS and React concepts in a fun and visual way.
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moataseem&show_icons=true&theme=github_dark" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=moataseem&theme=github-dark&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moataseem&theme=github-compact" />
-</p>
 
 ---
 
